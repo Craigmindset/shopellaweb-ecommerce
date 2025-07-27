@@ -5,9 +5,8 @@ import "./globals.css";
 import { CartProvider } from "./contexts/cart-context";
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: "shopella",
+  description: "shopella",
 };
 
 export default function RootLayout({
